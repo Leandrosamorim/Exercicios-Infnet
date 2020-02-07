@@ -1,0 +1,35 @@
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\appsettings.Development.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\appsettings.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Properties\launchSettings.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.exe
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.deps.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.runtimeconfig.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.runtimeconfig.dev.json
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.dll
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.pdb
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.Views.dll
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\bin\Debug\netcoreapp3\Protocolos HTTP.Views.pdb
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.csprojAssemblyReference.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\staticwebassets\Protocolos HTTP.StaticWebAssets.Manifest.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\staticwebassets\Protocolos HTTP.StaticWebAssets.xml
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.RazorAssemblyInfo.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.RazorAssemblyInfo.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.TagHelpers.input.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.TagHelpers.output.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.RazorCoreGenerate.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.RazorTargetAssemblyInfo.cache
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.RazorTargetAssemblyInfo.cs
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.Views.pdb
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.dll
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.pdb
+C:\Users\Leandro\Documents\Projects\ASP.NET\Protocolos HTTP\obj\Debug\netcoreapp3\Protocolos HTTP.csproj.CopyComplete
